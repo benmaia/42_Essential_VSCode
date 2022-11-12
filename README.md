@@ -1,10 +1,9 @@
-# 42-essentials README
+# 42-essentials
 
 ## Some really good extensions that will help you alot on your 42 adventure
 
 Please take 10 minutes to learn how to use this plug-ins and you will win hours and hours of work, specially with the norminette an c++.
 
-For norminette you have
 * 42 Header -> Set the header on your projects
 	* macOS : ⌘ + ⌥ + H
 	* Linux / Windows : Ctrl + Alt + H.
