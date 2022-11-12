@@ -19,4 +19,13 @@ For norminette you have
 * Live Share -> Allows for you and more people to code the same file at the same time
 * C/C++ -> IntelliSense, debugging and code browsing for C and C++
 
+## How to Install it
+You can run the command:
+``` bash
+code --install-extension 42-essentials-0.0.1.vsix
+```
+Or you can drag and drop on the extensions tab of visual studio
+
+![Alt Text](https://cdn.discordapp.com/attachments/461563270411714561/1040830404615229541/ezgif.com-gif-maker.gif)
+
 **Enjoy!**
